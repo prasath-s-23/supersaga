@@ -2,7 +2,7 @@
     "name": "supersaga",
     "version": "1.0.0",
     "description": "",
-    "main": "serve.js",
+    "main": "server.js",
     "scripts": {
         "start": "node server.js",
         "server": "nodemon server.js",
